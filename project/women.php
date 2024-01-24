@@ -15,8 +15,8 @@ $baseUrl = 'http://localhost/NGO/';
             <div class="detailed-title">
               <div class="header-img detailed3"></div>          
                 <div class="side">
-                  <h2>Technological Investment in India</h2>  
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam doloribus, nihil quod consequatur asperiores deleniti explicabo voluptatibus officiis velit iste esse recusandae architecto itaque, similique delectus ea dolor, quos similique delectus ea dolor,  officiis velit iste esse recusandae architecto itaque, similique delectus ea dolor, quos similique delectus ea dolor, quosminus?</p>
+                  <h2>Women Empowerment Program</h2>  
+                  <p>Women empowerment is the essence of our mission. The Women’s Empowerment Program provides women in marginalized communities with the opportunity to improve their skills, secure economic independence and become role models for change. We provide training, workshops and have support networks in a conducive environment where women are capable of making significant contributions to their families or communities.</p>
                 </div>        
               </div>
               <div class="detailed-body">
@@ -44,12 +44,7 @@ $baseUrl = 'http://localhost/NGO/';
                 <p>
                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam doloribus, nihil quod consequatur asperiores deleniti explicabo voluptatibus officiis velit iste esse recusandae architecto itaque, similique delectus ea dolor, quos similique delectus ea dolor, quosminusLorem ipsum dolor sit amet consectetur adipisicing elit.
                 </p>    
-                <p>
-                  <strong>5. Lorem ipsum dolor sit amet</strong>
-                </p>
-                <p>
-                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam doloribus, nihil quod consequatur asperiores deleniti explicabo voluptatibus officiis velit iste esse recusandae architecto itaque, similique delectus ea dolor, quos similique delectus ea dolor, quosminusLorem ipsum dolor sit amet consectetur adipisicing elit.
-                </p>              
+                    
               </div>
             </div>           
           </div>
@@ -57,9 +52,13 @@ $baseUrl = 'http://localhost/NGO/';
       </div>
     </div>
     <!-- program -->
-    <div class="container-fluid program-section">
+    <div class="program-section">
       <div class="container">  
         <div class="row ">
+          <div class="session-title">    
+            <p>Our approach is modeled around bringing change at women</p>
+            <h2>our approach & programs</h2>
+          </div>
           <div class="col-md-6">
             <div class="row g-0 border rounded overflow-hidden flex-md-row h-md-150 position-relative card-shadow  mt-4">
               <div class="col-auto">

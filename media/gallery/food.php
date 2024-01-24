@@ -14,7 +14,7 @@ $baseUrl = 'http://localhost/NGO/';
     }
     </style>
    
-    <div class="session-title mt-5">    
+    <div class="session-title">    
       <p>KNOW AND COME TO VISIT OUR</p>
       <h2>Food Gallery</h2>
     </div>

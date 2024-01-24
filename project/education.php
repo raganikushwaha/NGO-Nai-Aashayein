@@ -18,8 +18,8 @@ $baseUrl = 'http://localhost/NGO/';
             <div class="detailed-title">
               <div class="header-img detailed1"></div>          
                 <div class="side">
-                  <h2>Technological Investment in India</h2>  
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam doloribus, nihil quod consequatur asperiores deleniti explicabo voluptatibus officiis velit iste esse recusandae architecto itaque, similique delectus ea dolor, quos similique delectus ea dolor,  officiis velit iste esse recusandae architecto itaque, similique delectus ea dolor, quos similique delectus ea dolor, quosminus?</p>
+                  <h2>Education Program</h2>  
+                  <p><strong style="color:#ff4dc1;">NAYI ASHAYEIN</strong> believes that education is the key to breaking the circle of poverty. Our Education Program is focused on giving children, especially those residing in orphanages the opportunity to have access to quality education. We strive to maintain a supportive environment that offers quality learning, mentorship and resources. By doing so, we enable these children to realize their full potential.</p>
                 </div>        
               </div>
               <div class="detailed-body">
@@ -47,12 +47,7 @@ $baseUrl = 'http://localhost/NGO/';
                 <p>
                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam doloribus, nihil quod consequatur asperiores deleniti explicabo voluptatibus officiis velit iste esse recusandae architecto itaque, similique delectus ea dolor, quos similique delectus ea dolor, quosminusLorem ipsum dolor sit amet consectetur adipisicing elit.
                 </p>    
-                <p>
-                  <strong>5. Lorem ipsum dolor sit amet</strong>
-                </p>
-                <p>
-                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam doloribus, nihil quod consequatur asperiores deleniti explicabo voluptatibus officiis velit iste esse recusandae architecto itaque, similique delectus ea dolor, quos similique delectus ea dolor, quosminusLorem ipsum dolor sit amet consectetur adipisicing elit.
-                </p>              
+                        
               </div>
             </div>           
           </div>
@@ -60,13 +55,17 @@ $baseUrl = 'http://localhost/NGO/';
       </div>
     </div>
     <!-- program -->
-    <div class="container-fluid program-section">
+    <div class="program-section">
       <div class="container">  
         <div class="row ">
+          <div class="session-title">    
+            <p>Our approach is modeled around bringing change at education</p>
+            <h2>our approach & programs</h2>
+          </div>
           <div class="col-md-6">
             <div class="row g-0 border rounded overflow-hidden flex-md-row h-md-150 position-relative card-shadow  mt-4">
               <div class="col-auto">
-                <img src="../images/education/img_1.jpg">
+                <img src="../images/women/img_4.jpg">
               </div>
               <div class="col d-flex flex-column position-static text-part">
                 <h3>We motivated over 200 parents, teachers, and guardians, who worked for over 20 days</h3>
@@ -78,7 +77,7 @@ $baseUrl = 'http://localhost/NGO/';
           <div class="col-md-6">
             <div class="row g-0 border rounded overflow-hidden flex-md-row h-md-150 position-relative card-shadow mt-4">
               <div class="col-auto">
-                <img src="../images/education/img_1.jpg">
+                <img src="../images/women/img_4.jpg">
               </div>
               <div class="col d-flex flex-column position-static text-part">
                 <h3>Early Childhood Education</h3>
@@ -90,7 +89,7 @@ $baseUrl = 'http://localhost/NGO/';
           <div class="col-md-6">
             <div class="row g-0 border rounded overflow-hidden flex-md-row h-md-150 position-relative card-shadow mt-4">
               <div class="col-auto">
-                <img src="../images/education/img_1.jpg">
+                <img src="../images/women/img_4.jpg">
               </div>
               <div class="col d-flex flex-column position-static text-part">
                 <h3>Digital Initiatives</h3>
@@ -102,7 +101,7 @@ $baseUrl = 'http://localhost/NGO/';
           <div class="col-md-6">
             <div class="row g-0 border rounded overflow-hidden flex-md-row h-md-150 position-relative card-shadow mt-4">
               <div class="col-auto">
-                <img src="../images/education/img_1.jpg">
+                <img src="../images/women/img_4.jpg">
               </div>
               <div class="col d-flex flex-column position-static text-part">
                 <h3>International Collaborations</h3>

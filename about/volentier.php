@@ -9,54 +9,15 @@ $baseUrl = 'http://localhost/NGO/';
     <?php include "../common/navbar.php"?>
     
      
-    <!-- ======= About Section ======= -->
-    <div class="we-are-making container-fluid">
-      <div class="container">
-        <div class="session-title">
-          <p>HELP US TO ACHIEVE OUR GOAL</p>
-          <h2>About Our Charity</h2>
-        </div>
-        <div class="row">
-          <div class="col-md-6 imag-part">
-              <img class="img-fluid" src="../images/count.jpg" alt="">
-          </div>
-          <div class="col-md-6 text-part">
-              <h3>WHO WE ARE?</h3>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora quisquam impedit, consequuntur maiores consectetur optio! Quo dicta quidem fugit, earum officia rerum fuga, voluptatum vero necessitatibus, dolores unde possimus? Enim?.</p>
-              <div class="row count">
-                  <div class="col-md-4">
-                      <div class="count-sing">
-                           <i class="fas fa-donate"></i>
-                          <h2>$8765</h2>
-                          <b>People Contribution</b>
-                      </div>
-                  </div>
-                  <div class="col-md-4">
-                      <div class="count-sing">
-                           <i class="fas fa-users"></i>
-                          <h2>$8765</h2>
-                          <b>Volunteer Reached</b>
-                      </div>
-                  </div>
-                  <div class="col-md-4">
-                      <div class="count-sing">
-                          <i class="fas fa-trophy"></i>
-                          <h2>$8765</h2>
-                          <b>Successful Project</b>
-                      </div>
-                  </div>
-              </div>
-          </div>
-        </div>
-      </div>
-    </div>  
+    <!-- ======= volunteer Section ======= -->
+      
     
 
     <section class="team-section">
       <div class="container">
           <div class="session-title">
-            <p>HELP US TO ACHIEVE OUR GOAL</p>
-            <h2>VOLENTIOR</h2>
+            <p>OUR VOLUNTEER</p>
+            <h2>VOLUNTEER</h2>
           </div>
   
           <div class="row">

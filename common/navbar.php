@@ -1,60 +1,4 @@
-<!-- <nav class="nav-bar-container">
-		<div class="nav-bar-container__contactform">
-			<button type="button" class="become-partner-button" data-toggle="modal" data-target="#become-partnerModal">Become our Partner</button>
-
-			<select>
-				Select Langugage
-				<option>Hindi</option>
-				<option>English</option>
-				<option>Bengali</option>
-				<option>Karnatak</option>
-				<option>Tamil</option>
-			</select>
-		</div>
-
-		<div class="nav-bar-container__main-nav">
-			<nav class="navbar navbar-expand-lg navbar-light">
-				<a class="navbar-brand" href="<?= $baseUrl ?>index.html" class="company-logo">
-					<img class="company-logo-img" src="asset/img/MediHostIndia.png" alt="company logo" />
-				</a>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-				</button>
-
-				<div class="collapse navbar-collapse my-collapse" id="navbarSupportedContent">
-					<ul class="navbar-nav">
-						<li class="nav-item">
-							<a class="nav-link" href="<?= $baseUrl ?>index.php">Home</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="<?= $baseUrl ?>hospital-list.php">Hospitals</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="<?= $baseUrl ?>index.php">Doctors</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="<?= $baseUrl ?>index.php">Treatments</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="<?= $baseUrl ?>index.php">Medical Visa</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="<?= $baseUrl ?>index.php">Free Consultaion</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="<?= $baseUrl ?>index.php">Video Gallery</a>
-						</li>
-					</ul>
-
-					<div class="connect-with-parent">
-						<button class="connect-with-btn">Connect With Us!</button>
-					</div>
-				</div>
-
-			</nav>
-		</div>
-	</nav> -->
-
+ 
 	<!-- ======= Top Bar ======= -->
     <section class="topbar">
       <div class="container d-flex justify-content-center justify-content-md-between">
@@ -75,7 +19,7 @@
       <nav class="navbar navbar-expand-lg">
         <div class="container">
 			<a class="navbar-brand" href="<?= $baseUrl ?>index.php">
-				<img src="<?= $baseUrl ?>images/logo.png">
+				<img src="<?= $baseUrl ?>images/logo (2).png">
 			</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="fa-solid fa-bars-staggered navbar-toggler-icon "></span>
@@ -90,8 +34,9 @@
                 About
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="<?= $baseUrl ?>about/about.php">About</a></li>
                   <li><a class="dropdown-item" href="<?= $baseUrl ?>about/member.php">Members</a></li>
-                  <li><a class="dropdown-item" href="<?= $baseUrl ?>about/volentier.php">VOlunters</a></li>
+                  <li><a class="dropdown-item" href="<?= $baseUrl ?>about/volentier.php">Volunteer</a></li>
                 </ul>  
               </li>  
               
@@ -124,8 +69,8 @@
             <div class="dropdown">
               <button onclick="myFunction()" class="dropbtn"><i class="fa fa-heart"></i>JOIN NGO</button>
               <div id="myDropdown" class="dropdown-content">
-                <a href="<?= $baseUrl ?>#">Member</a>
-                <a href="<?= $baseUrl ?>#">Volentier</a>
+                <a href="<?= $baseUrl ?>member-form.php">Member</a>
+                <a href="<?= $baseUrl ?>#">Volunteer</a>
                 
               </div>
             </div>
@@ -134,3 +79,4 @@
         </div>
       </nav>
     </div> 
+    

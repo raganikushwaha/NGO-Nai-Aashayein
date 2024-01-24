@@ -1,5 +1,5 @@
     <!-- ======= Footer ======= -->
-    <footer id="footer">
+    <footer class="footer">
       <div class="footer-top">
         <div class="container">
           <div class="row">
@@ -39,13 +39,13 @@
             </div>
             
             <div class="col-lg-3 col-md-6 footer-info">
-              <a class="navbar-brand" href=""><img src="<?= $baseUrl ?>images/logo1.png" style="height: 70px; width: 200px;"></a>
+              <a class="navbar-brand" href=""><img src="<?= $baseUrl ?>images/logo1.png" style="height: 60px; width: 190px;"></a>
               <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
               <div class="social-links mt-3">
                 <a href="#"><i class="fab fa-twitter"></i></a>
                 <a href="#"><i class="fab fa-facebook"></i></a>
                 <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-skype"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
                 <a href="#"><i class="fab fa-linkedin"></i></a>
               </div>
             </div>
@@ -62,7 +62,7 @@
     </footer> 
 
      
-    <!--js -->
+  <!--js -->
    
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<script src="<?= $baseUrl ?>asset/js/owl.carousel.min.js"></script>
@@ -70,7 +70,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
   <script>
-     baguetteBox.run('.run-gallery');
+    baguetteBox.run('.run-gallery');
   </script>	 
 
 
